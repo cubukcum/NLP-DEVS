@@ -1,0 +1,4 @@
+flask
+streamlit
+psycopg2
+python-dotenv
